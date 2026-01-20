@@ -2,8 +2,8 @@
 
 ## Metadata
 - **Difficulty:** <span style="color: #eab308; font-weight: bold;">Medium</span>
-- **Languages:** `Python`
-- **Submission Date:** 3 September 2026
+- **Languages:** `C++`
+- **Submission Date:** 20 January 2026
 - **Tags:** `Array`, `Math`, `Two Pointers`
 
 ## Description
@@ -56,38 +56,28 @@ rotate 2 steps to the right: [3,99,-1,-100]
 
 ## Solution
 
-### Python
-```python
-class Solution(object):
-    def rotate(self, nums, k):
-        n = len(nums)
-        if n == 0:
-            return 
-        k %= n
-        if k == 0:
-            return
-
-        # m-1(Brute force)
-        # for i in range(1, k+1):
-        #     temp = nums[n-1]
-        #     for j in range(n-2,-1,-1):
-        #         nums[j+1] = nums[j]
-        #     nums[0] = temp
-
-        # m-2(Optimal solution)
-        def reverse(nums, l, r):
-            if r <= l:
-                return
-            i = l
-            j = r
-            while i < j:
-                nums[i], nums[j] = nums[j], nums[i]
-                j -= 1
-                i += 1
-            
-        reverse(nums, 0, n-1)
-        reverse(nums, 0, k-1)
-        reverse(nums, k, n-1)
+### C++
+```cpp
+class Solution {
+public:
+void reverse(int i, int j, vector<int>&a){
+        while(i<=j){
+            int temp = a[i];
+            a[i] = a[j];
+            a[j] = temp;
+            i++;
+            j--;
+        } 
+        return;
+    }
+    void rotate(vector<int>& nums, int k) {
+        int n = nums.size();
+        k = k%n;
+        reverse(0 , n-k-1, nums);
+        reverse(n-k, n-1, nums);
+        reverse(0 , n-1, nums);
+    }
+};
 ```
 
 ---
