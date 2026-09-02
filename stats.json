@@ -1,0 +1,16 @@
+{
+  "shas": {
+    "remove-duplicates-from-sorted-array": {
+      "remove-duplicates-from-sorted-array.py": "1e3c6ec18a11954b05aba611f897e3c362260a86",
+      "README.md": "296afe2df8a06e2a00678616a0c37b1398df97ac"
+    },
+    "README.md": {
+      "": "057e5de28a4712177247f3fab8d2ef301abfb235"
+    },
+    "stats.json": {
+      "": "1732361a1f8d7cb1fa2bb3ebec8cb3e5a7929f12"
+    }
+  },
+  "solved": 1,
+  "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
+}
