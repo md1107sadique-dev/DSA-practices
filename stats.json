@@ -5,10 +5,10 @@
       "README.md": "296afe2df8a06e2a00678616a0c37b1398df97ac"
     },
     "README.md": {
-      "": "18ba15c69137904dc51502f865d7f5273936c24b"
+      "": "09da2f21baa8dad8292270313bfb66af1a0af474"
     },
     "stats.json": {
-      "": "f5031cd5139a6bbe61e0a69236e973b63e87e848"
+      "": "a4c062e9fd23f23193962de947b5820f3764042b"
     },
     "rotate-array": {
       "rotate-array.py": "a2e696fe88034d0dfe245375aee0c3d215172222",
@@ -18,8 +18,12 @@
     "move-zeroes": {
       "move-zeroes.py": "25d4e46c9dea7dcd6875eec770aec4b7e293dc5f",
       "README.md": "f25b5dfee651dd0da627c80f0438feb05bc39c9f"
+    },
+    "merge-sorted-array": {
+      "merge-sorted-array.py": "89bb57ec0536bebf232cbe15d2b82905653a3afa",
+      "README.md": "c7e7b39a3863b6b73d6d8b469d31486445b5d0d7"
     }
   },
-  "solved": 3,
+  "solved": 4,
   "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
 }
