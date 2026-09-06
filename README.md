@@ -9,6 +9,12 @@
 | 3 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | LeetCode #283 | [Python](./leetcode/Easy/move-zeroes/move-zeroes.py) |
 | 4 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | LeetCode #88 | [Python](./leetcode/Easy/merge-sorted-array/merge-sorted-array.py) |
 
+## Database
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | LeetCode #175 | [MySQL](./leetcode/Easy/combine-two-tables/combine-two-tables.sql) |
+
 ## Math
 
 | # | Problem | Platform | Language |
