@@ -5,10 +5,10 @@
       "README.md": "296afe2df8a06e2a00678616a0c37b1398df97ac"
     },
     "README.md": {
-      "": "016702f7bfd14f62f2490fd95a080e515f3aab42"
+      "": "8def221801485d5f782d55942c1bc1bfd90ee88d"
     },
     "stats.json": {
-      "": "2b11bdacdc1e804cfdde6d30a784251e8b60671d"
+      "": "e89880a0ce5c7e98c9dafa4d6fae2896113782a2"
     },
     "rotate-array": {
       "rotate-array.py": "a2e696fe88034d0dfe245375aee0c3d215172222",
@@ -26,8 +26,12 @@
     "combine-two-tables": {
       "combine-two-tables.sql": "d4618ab4fbd9985d49992d7463fd4f44eab1c8cd",
       "README.md": "aa6766753f957f09d4081f09ea3a4fff9d674f9d"
+    },
+    "missing-number": {
+      "missing-number.py": "57c24684a0bcf617f06846298e677a844f171abf",
+      "README.md": "d743cff6a3785b2b26bcc0ae2d08fb99ad040af8"
     }
   },
-  "solved": 5,
+  "solved": 6,
   "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
 }
