@@ -29,6 +29,7 @@
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | LeetCode #175 | [MySQL](./leetcode/Easy/combine-two-tables/combine-two-tables.sql) |
+| 2 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | LeetCode #1625 | [MySQL](./leetcode/Easy/group-sold-products-by-the-date/group-sold-products-by-the-date.sql) |
 
 ## Hash Table
 

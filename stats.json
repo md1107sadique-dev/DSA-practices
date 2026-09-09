@@ -5,10 +5,10 @@
       "README.md": "296afe2df8a06e2a00678616a0c37b1398df97ac"
     },
     "README.md": {
-      "": "96ff598d755622bf67026bffaf92a38b32a8ecf6"
+      "": "027d004a78f4d9d161f54b9a4d85c679d3546b72"
     },
     "stats.json": {
-      "": "05a4300f13807a461f15c8d8590ea642a6b817de"
+      "": "adc7f1891bd80fe2c1b55ece4a6536c3a03cc690"
     },
     "rotate-array": {
       "rotate-array.py": "a2e696fe88034d0dfe245375aee0c3d215172222",
@@ -38,8 +38,12 @@
     "two-sum": {
       "two-sum.py": "8778c7faf4804b59ad3b585b7b75be7d7be98be1",
       "README.md": "84dbc69f601d0ad7e9a997a7602fd8b05824eae8"
+    },
+    "group-sold-products-by-the-date": {
+      "group-sold-products-by-the-date.sql": "3900172a953abb7a148863a18e354d722c089885",
+      "README.md": "aa380254b141511995679b01fad164617fa50592"
     }
   },
-  "solved": 8,
+  "solved": 9,
   "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
 }
