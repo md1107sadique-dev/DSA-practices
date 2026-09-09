@@ -10,6 +10,7 @@
 | 4 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | LeetCode #88 | [Python](./leetcode/Easy/merge-sorted-array/merge-sorted-array.py) |
 | 5 | [Missing Number](https://leetcode.com/problems/missing-number/) | LeetCode #268 | [Python](./leetcode/Easy/missing-number/missing-number.py) |
 | 6 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | LeetCode #485 | [Python](./leetcode/Easy/max-consecutive-ones/max-consecutive-ones.py) |
+| 7 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode #1 | [Python](./leetcode/Easy/two-sum/two-sum.py) |
 
 ## Binary Search
 
@@ -34,6 +35,7 @@
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Missing Number](https://leetcode.com/problems/missing-number/) | LeetCode #268 | [Python](./leetcode/Easy/missing-number/missing-number.py) |
+| 2 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode #1 | [Python](./leetcode/Easy/two-sum/two-sum.py) |
 
 ## Math
 

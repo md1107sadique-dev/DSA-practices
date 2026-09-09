@@ -5,10 +5,10 @@
       "README.md": "296afe2df8a06e2a00678616a0c37b1398df97ac"
     },
     "README.md": {
-      "": "8090b4d6172455ffc67585e30f22ec72a2ec4161"
+      "": "96ff598d755622bf67026bffaf92a38b32a8ecf6"
     },
     "stats.json": {
-      "": "26bc24659ec68647567743bc33eaba857a9bac08"
+      "": "05a4300f13807a461f15c8d8590ea642a6b817de"
     },
     "rotate-array": {
       "rotate-array.py": "a2e696fe88034d0dfe245375aee0c3d215172222",
@@ -34,8 +34,12 @@
     "max-consecutive-ones": {
       "max-consecutive-ones.py": "912878e1a0fefba4454546ffd4d4baa70840baa7",
       "README.md": "b94687c0f9e7f6c05f9f6e0fffcd6679ce953ea5"
+    },
+    "two-sum": {
+      "two-sum.py": "8778c7faf4804b59ad3b585b7b75be7d7be98be1",
+      "README.md": "84dbc69f601d0ad7e9a997a7602fd8b05824eae8"
     }
   },
-  "solved": 7,
+  "solved": 8,
   "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
 }
