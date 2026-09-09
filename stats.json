@@ -5,10 +5,10 @@
       "README.md": "296afe2df8a06e2a00678616a0c37b1398df97ac"
     },
     "README.md": {
-      "": "8def221801485d5f782d55942c1bc1bfd90ee88d"
+      "": "8090b4d6172455ffc67585e30f22ec72a2ec4161"
     },
     "stats.json": {
-      "": "e89880a0ce5c7e98c9dafa4d6fae2896113782a2"
+      "": "26bc24659ec68647567743bc33eaba857a9bac08"
     },
     "rotate-array": {
       "rotate-array.py": "a2e696fe88034d0dfe245375aee0c3d215172222",
@@ -30,8 +30,12 @@
     "missing-number": {
       "missing-number.py": "57c24684a0bcf617f06846298e677a844f171abf",
       "README.md": "d743cff6a3785b2b26bcc0ae2d08fb99ad040af8"
+    },
+    "max-consecutive-ones": {
+      "max-consecutive-ones.py": "912878e1a0fefba4454546ffd4d4baa70840baa7",
+      "README.md": "b94687c0f9e7f6c05f9f6e0fffcd6679ce953ea5"
     }
   },
-  "solved": 6,
+  "solved": 7,
   "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
 }

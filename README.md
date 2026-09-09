@@ -9,6 +9,7 @@
 | 3 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | LeetCode #283 | [Python](./leetcode/Easy/move-zeroes/move-zeroes.py) |
 | 4 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | LeetCode #88 | [Python](./leetcode/Easy/merge-sorted-array/merge-sorted-array.py) |
 | 5 | [Missing Number](https://leetcode.com/problems/missing-number/) | LeetCode #268 | [Python](./leetcode/Easy/missing-number/missing-number.py) |
+| 6 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | LeetCode #485 | [Python](./leetcode/Easy/max-consecutive-ones/max-consecutive-ones.py) |
 
 ## Binary Search
 
