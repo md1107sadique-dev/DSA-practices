@@ -11,6 +11,7 @@
 | 5 | [Missing Number](https://leetcode.com/problems/missing-number/) | LeetCode #268 | [Python](./leetcode/Easy/missing-number/missing-number.py) |
 | 6 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | LeetCode #485 | [Python](./leetcode/Easy/max-consecutive-ones/max-consecutive-ones.py) |
 | 7 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode #1 | [Python](./leetcode/Easy/two-sum/two-sum.py) |
+| 8 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | LeetCode #53 | [Python](./leetcode/Medium/maximum-subarray/maximum-subarray.py) |
 
 ## Binary Search
 
@@ -30,6 +31,18 @@
 | :--- | :--- | :--- | :--- |
 | 1 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | LeetCode #175 | [MySQL](./leetcode/Easy/combine-two-tables/combine-two-tables.sql) |
 | 2 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | LeetCode #1625 | [MySQL](./leetcode/Easy/group-sold-products-by-the-date/group-sold-products-by-the-date.sql) |
+
+## Divide and Conquer
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | LeetCode #53 | [Python](./leetcode/Medium/maximum-subarray/maximum-subarray.py) |
+
+## Dynamic Programming
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | LeetCode #53 | [Python](./leetcode/Medium/maximum-subarray/maximum-subarray.py) |
 
 ## Hash Table
 
