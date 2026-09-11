@@ -12,6 +12,7 @@
 | 6 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | LeetCode #485 | [Python](./leetcode/Easy/max-consecutive-ones/max-consecutive-ones.py) |
 | 7 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode #1 | [Python](./leetcode/Easy/two-sum/two-sum.py) |
 | 8 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | LeetCode #53 | [Python](./leetcode/Medium/maximum-subarray/maximum-subarray.py) |
+| 9 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | LeetCode #121 | [Python](./leetcode/Easy/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) |
 
 ## Binary Search
 
@@ -43,6 +44,7 @@
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | LeetCode #53 | [Python](./leetcode/Medium/maximum-subarray/maximum-subarray.py) |
+| 2 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | LeetCode #121 | [Python](./leetcode/Easy/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) |
 
 ## Hash Table
 

@@ -5,10 +5,10 @@
       "README.md": "296afe2df8a06e2a00678616a0c37b1398df97ac"
     },
     "README.md": {
-      "": "2c19ace018830f8fa116f58d47fbf90916086300"
+      "": "ef7d902205e52e9c0e02065f8b3196f417151028"
     },
     "stats.json": {
-      "": "df814a0f6521b8e6bc5ca6a233ac3b6b2b2b9b6e"
+      "": "a8470cf3938006eb01ee2e10a783e344e743fbf2"
     },
     "rotate-array": {
       "rotate-array.py": "a2e696fe88034d0dfe245375aee0c3d215172222",
@@ -46,8 +46,12 @@
     "maximum-subarray": {
       "maximum-subarray.py": "8d767d4c98a7afa87c09eeb7f73c79ae7189ac55",
       "README.md": "5e5f2470fc8b0f14ee59ecbe6ad52d9f7660d00a"
+    },
+    "best-time-to-buy-and-sell-stock": {
+      "best-time-to-buy-and-sell-stock.py": "8b15dc7e73bd993045fc1ec288833f39f0635ce7",
+      "README.md": "64318dd7bfa9ba912226b59d5b3428a17758813a"
     }
   },
-  "solved": 10,
+  "solved": 11,
   "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
 }
