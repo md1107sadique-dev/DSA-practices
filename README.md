@@ -13,6 +13,7 @@
 | 7 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode #1 | [Python](./leetcode/Easy/two-sum/two-sum.py) |
 | 8 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | LeetCode #53 | [Python](./leetcode/Medium/maximum-subarray/maximum-subarray.py) |
 | 9 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | LeetCode #121 | [Python](./leetcode/Easy/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) |
+| 10 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | LeetCode #41 | [Python](./leetcode/Hard/first-missing-positive/first-missing-positive.py) |
 
 ## Binary Search
 
@@ -52,6 +53,7 @@
 | :--- | :--- | :--- | :--- |
 | 1 | [Missing Number](https://leetcode.com/problems/missing-number/) | LeetCode #268 | [Python](./leetcode/Easy/missing-number/missing-number.py) |
 | 2 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode #1 | [Python](./leetcode/Easy/two-sum/two-sum.py) |
+| 3 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | LeetCode #41 | [Python](./leetcode/Hard/first-missing-positive/first-missing-positive.py) |
 
 ## Math
 
