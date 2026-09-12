@@ -14,6 +14,7 @@
 | 8 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | LeetCode #53 | [Python](./leetcode/Medium/maximum-subarray/maximum-subarray.py) |
 | 9 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | LeetCode #121 | [Python](./leetcode/Easy/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) |
 | 10 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | LeetCode #41 | [Python](./leetcode/Hard/first-missing-positive/first-missing-positive.py) |
+| 11 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | LeetCode #2271 | [Python](./leetcode/Medium/rearrange-array-elements-by-sign/rearrange-array-elements-by-sign.py) |
 
 ## Binary Search
 
@@ -62,6 +63,12 @@
 | 1 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | LeetCode #189 | [C++](./leetcode/Medium/rotate-array/rotate-array.cpp), [Python](./leetcode/Medium/rotate-array/rotate-array.py) |
 | 2 | [Missing Number](https://leetcode.com/problems/missing-number/) | LeetCode #268 | [Python](./leetcode/Easy/missing-number/missing-number.py) |
 
+## Simulation
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | LeetCode #2271 | [Python](./leetcode/Medium/rearrange-array-elements-by-sign/rearrange-array-elements-by-sign.py) |
+
 ## Sorting
 
 | # | Problem | Platform | Language |
@@ -77,6 +84,7 @@
 | 2 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | LeetCode #189 | [C++](./leetcode/Medium/rotate-array/rotate-array.cpp), [Python](./leetcode/Medium/rotate-array/rotate-array.py) |
 | 3 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | LeetCode #283 | [Python](./leetcode/Easy/move-zeroes/move-zeroes.py) |
 | 4 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | LeetCode #88 | [Python](./leetcode/Easy/merge-sorted-array/merge-sorted-array.py) |
+| 5 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | LeetCode #2271 | [Python](./leetcode/Medium/rearrange-array-elements-by-sign/rearrange-array-elements-by-sign.py) |
 
 ---
 *Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
