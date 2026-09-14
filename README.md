@@ -78,6 +78,16 @@
 | 1 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | LeetCode #88 | [Python](./leetcode/Easy/merge-sorted-array/merge-sorted-array.py) |
 | 2 | [Missing Number](https://leetcode.com/problems/missing-number/) | LeetCode #268 | [Python](./leetcode/Easy/missing-number/missing-number.py) |
 
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
+<!---LeetCode Topics End-->
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | LeetCode #1999 | [Python](./leetcode/Easy/longer-contiguous-segments-of-ones-than-zeros/longer-contiguous-segments-of-ones-than-zeros.py) |
+
 ## Two Pointers
 
 | # | Problem | Platform | Language |
@@ -94,13 +104,9 @@
 | :--- | :--- | :--- | :--- |
 | 1 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | LeetCode #128 | [Python](./leetcode/Medium/longest-consecutive-sequence/longest-consecutive-sequence.py) |
 
----
-*Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
-<!---LeetCode Topics End-->
+
+---
+*Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*

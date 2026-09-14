@@ -5,10 +5,10 @@
       "README.md": "296afe2df8a06e2a00678616a0c37b1398df97ac"
     },
     "README.md": {
-      "": "b69f462a80199fe5b61363c911fafe5f7f355e22"
+      "": "d5500f37cf42e759d9dbbb014fd9202d941cc2da"
     },
     "stats.json": {
-      "": "f14700b2e71bc153b08eb1eac0f1f5e52a983c70"
+      "": "eba644a83c816874e1f089395a48c958fe5910a6"
     },
     "rotate-array": {
       "rotate-array.py": "a2e696fe88034d0dfe245375aee0c3d215172222",
@@ -62,8 +62,12 @@
     "longest-consecutive-sequence": {
       "longest-consecutive-sequence.py": "6761b11c1dcbb2aedf5b71d9d8a82409d9fa65a8",
       "README.md": "cb0dd32fa9650478ffb3470997dfeb2b17b81565"
+    },
+    "longer-contiguous-segments-of-ones-than-zeros": {
+      "longer-contiguous-segments-of-ones-than-zeros.py": "c1988d4c47fee805c108d050603d697e300fc8bf",
+      "README.md": "fe5d9f92696ccc1622c19322d504b2ab315e1e8e"
     }
   },
-  "solved": 14,
+  "solved": 15,
   "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
 }
