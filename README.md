@@ -96,3 +96,11 @@
 
 ---
 *Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
+<!---LeetCode Topics End-->
