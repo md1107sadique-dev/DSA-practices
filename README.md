@@ -16,6 +16,7 @@
 | 10 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | LeetCode #41 | [Python](./leetcode/Hard/first-missing-positive/first-missing-positive.py) |
 | 11 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | LeetCode #2271 | [Python](./leetcode/Medium/rearrange-array-elements-by-sign/rearrange-array-elements-by-sign.py) |
 | 12 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | LeetCode #128 | [Python](./leetcode/Medium/longest-consecutive-sequence/longest-consecutive-sequence.py) |
+| 13 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | LeetCode #73 | [Python](./leetcode/Medium/set-matrix-zeroes/set-matrix-zeroes.py) |
 
 ## Binary Search
 
@@ -57,6 +58,7 @@
 | 2 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode #1 | [Python](./leetcode/Easy/two-sum/two-sum.py) |
 | 3 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | LeetCode #41 | [Python](./leetcode/Hard/first-missing-positive/first-missing-positive.py) |
 | 4 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | LeetCode #128 | [Python](./leetcode/Medium/longest-consecutive-sequence/longest-consecutive-sequence.py) |
+| 5 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | LeetCode #73 | [Python](./leetcode/Medium/set-matrix-zeroes/set-matrix-zeroes.py) |
 
 ## Math
 
@@ -64,6 +66,12 @@
 | :--- | :--- | :--- | :--- |
 | 1 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | LeetCode #189 | [C++](./leetcode/Medium/rotate-array/rotate-array.cpp), [Python](./leetcode/Medium/rotate-array/rotate-array.py) |
 | 2 | [Missing Number](https://leetcode.com/problems/missing-number/) | LeetCode #268 | [Python](./leetcode/Easy/missing-number/missing-number.py) |
+
+## Matrix
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | LeetCode #73 | [Python](./leetcode/Medium/set-matrix-zeroes/set-matrix-zeroes.py) |
 
 ## Simulation
 
