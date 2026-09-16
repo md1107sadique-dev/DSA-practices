@@ -18,6 +18,7 @@
 | 12 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | LeetCode #128 | [Python](./leetcode/Medium/longest-consecutive-sequence/longest-consecutive-sequence.py) |
 | 13 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | LeetCode #73 | [Python](./leetcode/Medium/set-matrix-zeroes/set-matrix-zeroes.py) |
 | 14 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | LeetCode #48 | [Python](./leetcode/Medium/rotate-image/rotate-image.py) |
+| 15 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | LeetCode #54 | [Python](./leetcode/Medium/spiral-matrix/spiral-matrix.py) |
 
 ## Binary Search
 
@@ -75,12 +76,14 @@
 | :--- | :--- | :--- | :--- |
 | 1 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | LeetCode #73 | [Python](./leetcode/Medium/set-matrix-zeroes/set-matrix-zeroes.py) |
 | 2 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | LeetCode #48 | [Python](./leetcode/Medium/rotate-image/rotate-image.py) |
+| 3 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | LeetCode #54 | [Python](./leetcode/Medium/spiral-matrix/spiral-matrix.py) |
 
 ## Simulation
 
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | LeetCode #2271 | [Python](./leetcode/Medium/rearrange-array-elements-by-sign/rearrange-array-elements-by-sign.py) |
+| 2 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | LeetCode #54 | [Python](./leetcode/Medium/spiral-matrix/spiral-matrix.py) |
 
 ## Sorting
 
