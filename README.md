@@ -21,12 +21,14 @@
 | 15 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | LeetCode #54 | [Python](./leetcode/Medium/spiral-matrix/spiral-matrix.py) |
 | 16 | [3Sum](https://leetcode.com/problems/3sum/) | LeetCode #15 | [Python](./leetcode/Medium/3sum/3sum.py) |
 | 17 | [4Sum](https://leetcode.com/problems/4sum/) | LeetCode #18 | [Python](./leetcode/Medium/4sum/4sum.py) |
+| 18 | [Binary Search](https://leetcode.com/problems/binary-search/) | LeetCode #792 | [Python](./leetcode/Easy/binary-search/binary-search.py) |
 
 ## Binary Search
 
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Missing Number](https://leetcode.com/problems/missing-number/) | LeetCode #268 | [Python](./leetcode/Easy/missing-number/missing-number.py) |
+| 2 | [Binary Search](https://leetcode.com/problems/binary-search/) | LeetCode #792 | [Python](./leetcode/Easy/binary-search/binary-search.py) |
 
 ## Bit Manipulation
 
