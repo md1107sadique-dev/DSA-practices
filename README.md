@@ -1,9 +1,9 @@
 # DSA-practices
 
 <!---LeetCode Topics Start-->
-## LeetCode Topics
+# LeetCode Topics
 
-### Array
+## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0001-two-sum/) | Easy |
@@ -39,7 +39,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/md1107sadique-dev/DSA-practices/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 
-### Binary Search
+## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -51,31 +51,31 @@
 | [0268-missing-number](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0704-binary-search/) | Easy |
 
-### Bit Manipulation
+## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0371-sum-of-two-integers/) | Medium |
 
-### Database
+## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0175-combine-two-tables/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 
-### Divide and Conquer
+## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0053-maximum-subarray/) | Medium |
 
-### Dynamic Programming
+## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0509-fibonacci-number/) | Easy |
 
-### Hash Table
+## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0001-two-sum/) | Easy |
@@ -85,7 +85,7 @@
 | [0217-contains-duplicate](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0268-missing-number/) | Easy |
 
-### Math
+## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0048-rotate-image/) | Medium |
@@ -96,7 +96,7 @@
 | [0509-fibonacci-number](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0509-fibonacci-number/) | Easy |
 | [2235-add-two-integers](https://github.com/md1107sadique-dev/DSA-practices/tree/main/2235-add-two-integers/) | Easy |
 
-### Matrix
+## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0048-rotate-image/) | Medium |
@@ -105,13 +105,13 @@
 | [0074-search-a-2d-matrix](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 
-### Simulation
+## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0054-spiral-matrix/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/md1107sadique-dev/DSA-practices/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 
-### Sorting
+## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0015-3sum/) | Medium |
@@ -122,7 +122,7 @@
 | [0912-sort-an-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0912-sort-an-array/) | Medium |
 | [1122-relative-sort-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1122-relative-sort-array/) | Easy |
 
-### String
+## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -130,7 +130,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 
-### Two Pointers
+## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0015-3sum/) | Medium |
@@ -143,12 +143,12 @@
 | [0344-reverse-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0344-reverse-string/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/md1107sadique-dev/DSA-practices/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 
-### Union-Find
+## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0128-longest-consecutive-sequence/) | Medium |
 
-### Stack
+## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1021-remove-outermost-parentheses/) | Easy |
