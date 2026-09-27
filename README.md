@@ -1,3 +1,4 @@
+<!---LeetCode Topics Start-->
 # DSA-practices
 
 ## Array
@@ -124,7 +125,7 @@
 | 1 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | LeetCode #128 | [Python](./leetcode/Medium/longest-consecutive-sequence/longest-consecutive-sequence.py) |
 
 
-<!---LeetCode Topics Start-->
+
 # LeetCode Topics
 ## String
 | Problem Name | Difficulty |
