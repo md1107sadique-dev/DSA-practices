@@ -98,10 +98,7 @@
 | 3 | [3Sum](https://leetcode.com/problems/3sum/) | LeetCode #15 | [Python](./leetcode/Medium/3sum/3sum.py) |
 | 4 | [4Sum](https://leetcode.com/problems/4sum/) | LeetCode #18 | [Python](./leetcode/Medium/4sum/4sum.py) |
 
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
+
 
 
 | # | Problem | Platform | Language |
@@ -129,7 +126,19 @@
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
 ---
 *Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
