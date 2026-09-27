@@ -37,6 +37,7 @@
 | [1470-shuffle-the-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/md1107sadique-dev/DSA-practices/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/md1107sadique-dev/DSA-practices/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -101,6 +102,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0054-spiral-matrix/) | Medium |
 | [1929-concatenation-of-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/md1107sadique-dev/DSA-practices/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/md1107sadique-dev/DSA-practices/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -119,6 +121,7 @@
 | [0344-reverse-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0344-reverse-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/md1107sadique-dev/DSA-practices/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
