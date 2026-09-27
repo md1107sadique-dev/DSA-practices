@@ -2,7 +2,6 @@
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,8 +36,8 @@
 | [1122-relative-sort-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1122-relative-sort-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1929-concatenation-of-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/md1107sadique-dev/DSA-practices/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
-
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,31 +49,26 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0704-binary-search/) | Easy |
-
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0371-sum-of-two-integers/) | Medium |
-
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0175-combine-two-tables/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1484-group-sold-products-by-the-date/) | Easy |
-
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0053-maximum-subarray/) | Medium |
-
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0509-fibonacci-number/) | Easy |
-
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,7 +78,6 @@
 | [0128-longest-consecutive-sequence](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0268-missing-number/) | Easy |
-
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,7 +88,6 @@
 | [0371-sum-of-two-integers](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0509-fibonacci-number/) | Easy |
 | [2235-add-two-integers](https://github.com/md1107sadique-dev/DSA-practices/tree/main/2235-add-two-integers/) | Easy |
-
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,13 +96,12 @@
 | [0073-set-matrix-zeroes](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
-
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0054-spiral-matrix/) | Medium |
+| [1929-concatenation-of-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/md1107sadique-dev/DSA-practices/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
-
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,7 +112,6 @@
 | [0268-missing-number](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0268-missing-number/) | Easy |
 | [0912-sort-an-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0912-sort-an-array/) | Medium |
 | [1122-relative-sort-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1122-relative-sort-array/) | Easy |
-
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,7 +119,6 @@
 | [0344-reverse-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0344-reverse-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
-
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,20 +131,16 @@
 | [0283-move-zeroes](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0344-reverse-string/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/md1107sadique-dev/DSA-practices/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
-
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0128-longest-consecutive-sequence/) | Medium |
-
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1021-remove-outermost-parentheses/) | Easy |
-
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1021-remove-outermost-parentheses/) | Easy |
-
 <!---LeetCode Topics End-->
