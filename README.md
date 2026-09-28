@@ -40,6 +40,7 @@
 | [1929-concatenation-of-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/md1107sadique-dev/DSA-practices/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/md1107sadique-dev/DSA-practices/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/md1107sadique-dev/DSA-practices/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
