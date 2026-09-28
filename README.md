@@ -88,6 +88,7 @@
 | [0268-missing-number](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0509-fibonacci-number/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2235-add-two-integers](https://github.com/md1107sadique-dev/DSA-practices/tree/main/2235-add-two-integers/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -121,6 +122,7 @@
 | [0344-reverse-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0344-reverse-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/md1107sadique-dev/DSA-practices/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -146,4 +148,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->
