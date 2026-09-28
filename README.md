@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -118,6 +119,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0344-reverse-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -152,4 +154,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
