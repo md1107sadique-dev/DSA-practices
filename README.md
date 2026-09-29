@@ -79,6 +79,7 @@
 | [0041-first-missing-positive](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0205-isomorphic-strings](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0268-missing-number/) | Easy |
 ## Math
@@ -122,6 +123,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0344-reverse-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
