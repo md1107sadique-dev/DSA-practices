@@ -125,6 +125,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0344-reverse-string/) | Easy |
+| [0796-rotate-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -161,4 +162,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0014-longest-common-prefix/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
