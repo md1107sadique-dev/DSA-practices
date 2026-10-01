@@ -57,11 +57,6 @@
 | ------- | ------- |
 | [0268-missing-number](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0371-sum-of-two-integers/) | Medium |
-## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0175-combine-two-tables](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0175-combine-two-tables/) | Easy |
-| [1484-group-sold-products-by-the-date](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
