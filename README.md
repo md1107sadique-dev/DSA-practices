@@ -81,6 +81,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0205-isomorphic-strings](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0268-missing-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -115,6 +116,7 @@
 | [0018-4sum](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0088-merge-sorted-array/) | Easy |
+| [0242-valid-anagram](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0268-missing-number/) | Easy |
 | [0912-sort-an-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0912-sort-an-array/) | Medium |
 | [1122-relative-sort-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1122-relative-sort-array/) | Easy |
@@ -124,6 +126,7 @@
 | [0014-longest-common-prefix](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0344-reverse-string/) | Easy |
 | [0796-rotate-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1021-remove-outermost-parentheses/) | Easy |
