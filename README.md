@@ -78,6 +78,7 @@
 | [0217-contains-duplicate](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0268-missing-number/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +114,7 @@
 | [0088-merge-sorted-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0268-missing-number/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0912-sort-an-array/) | Medium |
 | [1122-relative-sort-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1122-relative-sort-array/) | Easy |
 ## String
@@ -123,6 +125,7 @@
 | [0205-isomorphic-strings](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0344-reverse-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0796-rotate-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
@@ -164,4 +167,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0796-rotate-string/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
