@@ -185,4 +185,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1873-calculate-special-bonus](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1873-calculate-special-bonus/) | Easy |
 <!---LeetCode Topics End-->
