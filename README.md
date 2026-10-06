@@ -90,6 +90,7 @@
 | [0268-missing-number](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0509-fibonacci-number/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2235-add-two-integers](https://github.com/md1107sadique-dev/DSA-practices/tree/main/2235-add-two-integers/) | Easy |
 ## Matrix
@@ -104,6 +105,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0054-spiral-matrix/) | Medium |
+| [1688-count-of-matches-in-tournament](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1929-concatenation-of-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/md1107sadique-dev/DSA-practices/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/md1107sadique-dev/DSA-practices/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
