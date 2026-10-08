@@ -76,6 +76,7 @@
 | [0073-set-matrix-zeroes](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0205-isomorphic-strings](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0242-valid-anagram/) | Easy |
@@ -146,6 +147,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0283-move-zeroes/) | Easy |
@@ -198,6 +200,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
@@ -208,4 +211,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
