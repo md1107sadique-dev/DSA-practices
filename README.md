@@ -71,6 +71,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -126,6 +127,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -212,4 +214,8 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
