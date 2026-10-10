@@ -35,6 +35,7 @@
 | [0414-third-maximum-number](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0912-sort-an-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0912-sort-an-array/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1122-relative-sort-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1122-relative-sort-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -124,6 +125,7 @@
 | [0268-missing-number](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0268-missing-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0912-sort-an-array/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1122-relative-sort-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1122-relative-sort-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -157,6 +159,7 @@
 | [0283-move-zeroes](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/md1107sadique-dev/DSA-practices/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
