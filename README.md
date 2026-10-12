@@ -40,6 +40,7 @@
 | [1122-relative-sort-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1122-relative-sort-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/md1107sadique-dev/DSA-practices/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/md1107sadique-dev/DSA-practices/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -107,6 +108,7 @@
 | [0073-set-matrix-zeroes](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
