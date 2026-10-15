@@ -37,6 +37,7 @@
 | [0485-max-consecutive-ones](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0912-sort-an-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1029-two-city-scheduling](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1029-two-city-scheduling/) | Medium |
 | [1122-relative-sort-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1122-relative-sort-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -129,6 +130,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1029-two-city-scheduling](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1029-two-city-scheduling/) | Medium |
 | [1122-relative-sort-array](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1122-relative-sort-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -184,6 +186,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0011-container-with-most-water/) | Medium |
+| [1029-two-city-scheduling](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1029-two-city-scheduling/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -231,4 +234,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Hungarian Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1029-two-city-scheduling](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1029-two-city-scheduling/) | Medium |
+## Successive Shortest Path Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1029-two-city-scheduling](https://github.com/md1107sadique-dev/DSA-practices/tree/main/1029-two-city-scheduling/) | Medium |
 <!---LeetCode Topics End-->
