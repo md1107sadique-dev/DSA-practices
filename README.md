@@ -216,6 +216,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0092-reverse-linked-list-ii](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/md1107sadique-dev/DSA-practices/tree/main/0203-remove-linked-list-elements/) | Easy |
